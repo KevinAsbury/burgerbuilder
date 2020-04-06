@@ -17,3 +17,15 @@
     height: 100%;
     
 }
+
+.Logo {
+    height: 80%
+}
+
+/* Dynamically makes the top right navigation items disappear
+    on mobile devices */
+@media (max-width: 499px) {
+    .DesktopOnly {
+        display: none;
+    }
+}
