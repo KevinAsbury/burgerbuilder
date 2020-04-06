@@ -1,4 +1,4 @@
-import Aux from '../Aux' 
+import Aux from '../Aux/Aux' 
 import React, { Component } from 'react'
 import style from './Layout.css'
 import Toolbar from '../../components/Navigation/Toolbar/Toolbar'
